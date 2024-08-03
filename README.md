@@ -1,4 +1,4 @@
 # NextCMD
-The Simple Way To Batch Command Prompts.
-# Reminder
-If You're Lost Always Remember To Type "help"!
+The Reccomended Way To Simple Batch Command Prompts.
+# Help
+What you're Lost? Oh, Just Type Something Random!
